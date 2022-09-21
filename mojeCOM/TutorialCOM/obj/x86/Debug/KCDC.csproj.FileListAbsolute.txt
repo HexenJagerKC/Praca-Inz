@@ -1,0 +1,54 @@
+E:\Studia IV\PRACA_DYPLOMOWA\mojeCOM\TutorialCOM\bin\Debug\TutorialCOM.exe
+E:\Studia IV\PRACA_DYPLOMOWA\mojeCOM\TutorialCOM\bin\Debug\TutorialCOM.pdb
+E:\Studia IV\PRACA_DYPLOMOWA\mojeCOM\TutorialCOM\obj\x86\Debug\KCDC.csprojAssemblyReference.cache
+E:\Studia IV\PRACA_DYPLOMOWA\mojeCOM\TutorialCOM\obj\x86\Debug\TutorialCOM.RSDCoNM.resources
+E:\Studia IV\PRACA_DYPLOMOWA\mojeCOM\TutorialCOM\obj\x86\Debug\TutorialCOM.Properties.Resources.resources
+E:\Studia IV\PRACA_DYPLOMOWA\mojeCOM\TutorialCOM\obj\x86\Debug\KCDC.csproj.GenerateResource.cache
+E:\Studia IV\PRACA_DYPLOMOWA\mojeCOM\TutorialCOM\obj\x86\Debug\KCDC.csproj.CoreCompileInputs.cache
+E:\Studia IV\PRACA_DYPLOMOWA\mojeCOM\TutorialCOM\obj\x86\Debug\TutorialCOM.exe
+E:\Studia IV\PRACA_DYPLOMOWA\mojeCOM\TutorialCOM\obj\x86\Debug\TutorialCOM.pdb
+E:\Aktualne\mojeCOM\TutorialCOM\bin\Debug\TutorialCOM.exe
+E:\Aktualne\mojeCOM\TutorialCOM\bin\Debug\TutorialCOM.pdb
+E:\Aktualne\mojeCOM\TutorialCOM\obj\x86\Debug\KCDC.csprojAssemblyReference.cache
+E:\Aktualne\mojeCOM\TutorialCOM\obj\x86\Debug\TutorialCOM.RSDCoNM.resources
+E:\Aktualne\mojeCOM\TutorialCOM\obj\x86\Debug\TutorialCOM.Properties.Resources.resources
+E:\Aktualne\mojeCOM\TutorialCOM\obj\x86\Debug\KCDC.csproj.GenerateResource.cache
+E:\Aktualne\mojeCOM\TutorialCOM\obj\x86\Debug\KCDC.csproj.CoreCompileInputs.cache
+E:\Aktualne\mojeCOM\TutorialCOM\obj\x86\Debug\TutorialCOM.exe
+E:\Aktualne\mojeCOM\TutorialCOM\obj\x86\Debug\TutorialCOM.pdb
+C:\Users\konra\OneDrive\Pulpit\Studia IV\aktualne_programy\mojeCOM\TutorialCOM\obj\x86\Debug\KCDC.csprojAssemblyReference.cache
+C:\Users\konra\OneDrive\Pulpit\Studia IV\aktualne_programy\mojeCOM\TutorialCOM\obj\x86\Debug\KCDC.csproj.GenerateResource.cache
+C:\Users\konra\OneDrive\Pulpit\Studia IV\aktualne_programy\mojeCOM\TutorialCOM\obj\x86\Debug\KCDC.csproj.CoreCompileInputs.cache
+E:\aktualne_prog\12.05\mojeCOM\TutorialCOM\bin\Debug\TutorialCOM.exe
+E:\aktualne_prog\12.05\mojeCOM\TutorialCOM\bin\Debug\TutorialCOM.pdb
+E:\aktualne_prog\12.05\mojeCOM\TutorialCOM\obj\x86\Debug\KCDC.csprojAssemblyReference.cache
+E:\aktualne_prog\12.05\mojeCOM\TutorialCOM\obj\x86\Debug\TutorialCOM.RSDCoNM.resources
+E:\aktualne_prog\12.05\mojeCOM\TutorialCOM\obj\x86\Debug\TutorialCOM.Properties.Resources.resources
+E:\aktualne_prog\12.05\mojeCOM\TutorialCOM\obj\x86\Debug\KCDC.csproj.GenerateResource.cache
+E:\aktualne_prog\12.05\mojeCOM\TutorialCOM\obj\x86\Debug\KCDC.csproj.CoreCompileInputs.cache
+E:\aktualne_prog\12.05\mojeCOM\TutorialCOM\obj\x86\Debug\TutorialCOM.exe
+E:\aktualne_prog\12.05\mojeCOM\TutorialCOM\obj\x86\Debug\TutorialCOM.pdb
+E:\Studia IV\PRACA_DYPLOMOWA\archiwumCOM\mojeCOM\TutorialCOM\obj\x86\Debug\KCDC.csprojAssemblyReference.cache
+E:\Studia IV\PRACA_DYPLOMOWA\archiwumCOM\mojeCOM\TutorialCOM\obj\x86\Debug\KCDC.csproj.GenerateResource.cache
+E:\Studia IV\PRACA_DYPLOMOWA\archiwumCOM\mojeCOM\TutorialCOM\obj\x86\Debug\KCDC.csproj.CoreCompileInputs.cache
+E:\Studia IV\PRACA_DYPLOMOWA\archiwumCOM\mojeCOM\TutorialCOM\bin\Debug\DCregulation.exe
+E:\Studia IV\PRACA_DYPLOMOWA\archiwumCOM\mojeCOM\TutorialCOM\bin\Debug\DCregulation.pdb
+E:\Studia IV\PRACA_DYPLOMOWA\archiwumCOM\mojeCOM\TutorialCOM\obj\x86\Debug\TutorialCOM.RSDC.resources
+E:\Studia IV\PRACA_DYPLOMOWA\archiwumCOM\mojeCOM\TutorialCOM\obj\x86\Debug\DCregulation.Properties.Resources.resources
+E:\Studia IV\PRACA_DYPLOMOWA\archiwumCOM\mojeCOM\TutorialCOM\obj\x86\Debug\DCregulation.exe
+E:\Studia IV\PRACA_DYPLOMOWA\archiwumCOM\mojeCOM\TutorialCOM\obj\x86\Debug\DCregulation.pdb
+C:\Users\konra\OneDrive\Pulpit\Studia IV\aktualne_programy\mojeCOM\TutorialCOM\bin\Debug\DCregulation.exe
+C:\Users\konra\OneDrive\Pulpit\Studia IV\aktualne_programy\mojeCOM\TutorialCOM\bin\Debug\DCregulation.pdb
+C:\Users\konra\OneDrive\Pulpit\Studia IV\aktualne_programy\mojeCOM\TutorialCOM\obj\x86\Debug\TutorialCOM.RSDC.resources
+C:\Users\konra\OneDrive\Pulpit\Studia IV\aktualne_programy\mojeCOM\TutorialCOM\obj\x86\Debug\DCregulation.Properties.Resources.resources
+C:\Users\konra\OneDrive\Pulpit\Studia IV\aktualne_programy\mojeCOM\TutorialCOM\obj\x86\Debug\DCregulation.exe
+C:\Users\konra\OneDrive\Pulpit\Studia IV\aktualne_programy\mojeCOM\TutorialCOM\obj\x86\Debug\DCregulation.pdb
+C:\Users\konra\OneDrive\Pulpit\Studia IV\aktualne_programy\DO_WYGRANIA\mojeCOM\TutorialCOM\bin\Debug\DCregulation.exe
+C:\Users\konra\OneDrive\Pulpit\Studia IV\aktualne_programy\DO_WYGRANIA\mojeCOM\TutorialCOM\bin\Debug\DCregulation.pdb
+C:\Users\konra\OneDrive\Pulpit\Studia IV\aktualne_programy\DO_WYGRANIA\mojeCOM\TutorialCOM\obj\x86\Debug\KCDC.csprojAssemblyReference.cache
+C:\Users\konra\OneDrive\Pulpit\Studia IV\aktualne_programy\DO_WYGRANIA\mojeCOM\TutorialCOM\obj\x86\Debug\TutorialCOM.RSDC.resources
+C:\Users\konra\OneDrive\Pulpit\Studia IV\aktualne_programy\DO_WYGRANIA\mojeCOM\TutorialCOM\obj\x86\Debug\DCregulation.Properties.Resources.resources
+C:\Users\konra\OneDrive\Pulpit\Studia IV\aktualne_programy\DO_WYGRANIA\mojeCOM\TutorialCOM\obj\x86\Debug\KCDC.csproj.GenerateResource.cache
+C:\Users\konra\OneDrive\Pulpit\Studia IV\aktualne_programy\DO_WYGRANIA\mojeCOM\TutorialCOM\obj\x86\Debug\KCDC.csproj.CoreCompileInputs.cache
+C:\Users\konra\OneDrive\Pulpit\Studia IV\aktualne_programy\DO_WYGRANIA\mojeCOM\TutorialCOM\obj\x86\Debug\DCregulation.exe
+C:\Users\konra\OneDrive\Pulpit\Studia IV\aktualne_programy\DO_WYGRANIA\mojeCOM\TutorialCOM\obj\x86\Debug\DCregulation.pdb
